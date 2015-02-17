@@ -1,0 +1,5 @@
+D:\TRABAJO\CBA\NUCLEO\printer\RawPrinterConsole\ConsoleApplication1\bin\Debug\RawPrinterConsole.exe.config
+D:\TRABAJO\CBA\NUCLEO\printer\RawPrinterConsole\ConsoleApplication1\bin\Debug\RawPrinterConsole.exe
+D:\TRABAJO\CBA\NUCLEO\printer\RawPrinterConsole\ConsoleApplication1\bin\Debug\RawPrinterConsole.pdb
+D:\TRABAJO\CBA\NUCLEO\printer\RawPrinterConsole\ConsoleApplication1\obj\Debug\RawPrinterConsole.exe
+D:\TRABAJO\CBA\NUCLEO\printer\RawPrinterConsole\ConsoleApplication1\obj\Debug\RawPrinterConsole.pdb
